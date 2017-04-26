@@ -1,0 +1,51 @@
+<application>
+  <component name="libraryTable">
+    <library name="Python 2.7.10 virtualenv at ~/src/template-translator/venv2 interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/src/template-translator/venv2/lib/python2.7" />
+        <root url="file://$USER_HOME$/src/template-translator/venv2/lib/python2.7/lib-dynload" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+        <root url="file://$USER_HOME$/src/template-translator/venv2/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2016.2/python_stubs/-1189000411" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/src/template-translator/venv2/lib/python2.7" />
+        <root url="file://$USER_HOME$/src/template-translator/venv2/lib/python2.7/lib-dynload" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+        <root url="file://$USER_HOME$/src/template-translator/venv2/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2016.2/python_stubs/-1189000411" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+      </SOURCES>
+    </library>
+    <library name="scala-sdk-2.11.8" type="Scala">
+      <properties>
+        <compiler-classpath>
+          <root url="file://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-compiler/jars/scala-compiler-2.11.8.jar" />
+          <root url="file://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar" />
+          <root url="file://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.8.jar" />
+        </compiler-classpath>
+      </properties>
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar!/" />
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.8.jar!/" />
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.8-sources.jar!/" />
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/srcs/scala-reflect-2.11.8-sources.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/docs/scala-library-2.11.8-javadoc.jar!/" />
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/docs/scala-reflect-2.11.8-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES />
+    </library>
+  </component>
+</application>

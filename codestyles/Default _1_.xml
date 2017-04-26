@@ -1,0 +1,25 @@
+<code_scheme name="Default (1)">
+  <ScalaCodeStyleSettings>
+    <option name="addFullQualifiedImports" value="false" />
+    <option name="classCountToUseImportOnDemand" value="6" />
+    <option name="importLayout">
+      <array>
+        <option value="all other imports" />
+      </array>
+    </option>
+  </ScalaCodeStyleSettings>
+  <TypeScriptCodeStyleSettings>
+    <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
+    <option name="USE_DOUBLE_QUOTES" value="false" />
+  </TypeScriptCodeStyleSettings>
+  <codeStyleSettings language="Scala">
+    <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
+  </codeStyleSettings>
+  <codeStyleSettings language="TypeScript">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+</code_scheme>
