@@ -1,8 +1,10 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="localCaseSensitive" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
     <recentFileMasks>
@@ -16,7 +18,6 @@
       <mask>*.mxml</mask>
       <mask>*.sql</mask>
       <mask>*.scala</mask>
-      <mask>*.ts</mask>
       <mask>*spec.ts</mask>
       <mask>*Spec.scala</mask>
       <mask>*.sp</mask>
@@ -27,6 +28,8 @@
       <mask>*.css</mask>
       <mask>*.csvs</mask>
       <mask>*.csv</mask>
+      <mask>*.ts</mask>
+      <mask>*.ts*</mask>
     </recentFileMasks>
   </component>
 </application>
