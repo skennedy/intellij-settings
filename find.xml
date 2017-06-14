@@ -3,7 +3,7 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.scala" />
+    <option name="FILE_MASK" value="*.ts*" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -23,14 +23,14 @@
       <mask>*.spec.ts</mask>
       <mask>*.css</mask>
       <mask>*.csvs</mask>
-      <mask>*.csv</mask>
       <mask>*.</mask>
       <mask>*.sca</mask>
-      <mask>*.ts</mask>
-      <mask>*.ts*</mask>
       <mask>*.sc</mask>
       <mask>*.scal</mask>
       <mask>*.scala</mask>
+      <mask>*.csv</mask>
+      <mask>*.ts</mask>
+      <mask>*.ts*</mask>
     </recentFileMasks>
   </component>
 </application>
