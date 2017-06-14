@@ -3,10 +3,9 @@
     <option name="caseSensitive" value="true" />
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
-    <option name="localRegularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.ts*" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -17,7 +16,6 @@
       <mask>*.as</mask>
       <mask>*.mxml</mask>
       <mask>*.sql</mask>
-      <mask>*.scala</mask>
       <mask>*spec.ts</mask>
       <mask>*Spec.scala</mask>
       <mask>*.sp</mask>
@@ -28,6 +26,10 @@
       <mask>*.css</mask>
       <mask>*.csvs</mask>
       <mask>*.csv</mask>
+      <mask>*.</mask>
+      <mask>*.sc</mask>
+      <mask>*.sca</mask>
+      <mask>*.scala</mask>
       <mask>*.ts</mask>
       <mask>*.ts*</mask>
     </recentFileMasks>
