@@ -1,11 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.ts*" />
+    <option name="FILE_MASK" value="*.scala" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -27,11 +25,12 @@
       <mask>*.csvs</mask>
       <mask>*.csv</mask>
       <mask>*.</mask>
-      <mask>*.sc</mask>
       <mask>*.sca</mask>
-      <mask>*.scala</mask>
       <mask>*.ts</mask>
       <mask>*.ts*</mask>
+      <mask>*.sc</mask>
+      <mask>*.scal</mask>
+      <mask>*.scala</mask>
     </recentFileMasks>
   </component>
 </application>
