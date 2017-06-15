@@ -11,7 +11,6 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.csv,*.ts" />
     <recentFileMasks>
       <mask>*spec.ts</mask>
       <mask>*Spec.scala</mask>
