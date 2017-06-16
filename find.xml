@@ -9,10 +9,8 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.csv,*.ts" />
+    <option name="FILE_MASK" value="*.scala" />
     <recentFileMasks>
-      <mask>*spec.ts</mask>
-      <mask>*Spec.scala</mask>
       <mask>*.sp</mask>
       <mask>*.spe</mask>
       <mask>*.spec</mask>
@@ -23,7 +21,6 @@
       <mask>*.sca</mask>
       <mask>*.sc</mask>
       <mask>*.scal</mask>
-      <mask>*.scala</mask>
       <mask>*.ts*</mask>
       <mask>*.ts</mask>
       <mask>*.t</mask>
@@ -41,6 +38,9 @@
       <mask>*.csv,*.</mask>
       <mask>*.csv,*.t</mask>
       <mask>*.csv,*.ts</mask>
+      <mask>*</mask>
+      <mask>*.s</mask>
+      <mask>*.scala</mask>
     </recentFileMasks>
   </component>
 </application>
