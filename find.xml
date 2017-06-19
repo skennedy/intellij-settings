@@ -3,13 +3,12 @@
     <option name="caseSensitive" value="true" />
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
-    <option name="localRegularExpressions" value="true" />
+    <option name="localCaseSensitive" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.scala" />
     <recentFileMasks>
       <mask>*.sp</mask>
       <mask>*.spe</mask>
@@ -31,8 +30,6 @@
       <mask>*.(csv|</mask>
       <mask>*.(csv|ts</mask>
       <mask>*.(csv|ts)</mask>
-      <mask>*.cs</mask>
-      <mask>*.csv</mask>
       <mask>*.csv,</mask>
       <mask>*.csv,*</mask>
       <mask>*.csv,*.</mask>
@@ -41,6 +38,8 @@
       <mask>*</mask>
       <mask>*.s</mask>
       <mask>*.scala</mask>
+      <mask>*.cs</mask>
+      <mask>*.csv</mask>
     </recentFileMasks>
   </component>
 </application>
