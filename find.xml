@@ -2,16 +2,13 @@
   <component name="FindSettings">
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.ts" />
+    <option name="FILE_MASK" value="final.html" />
     <recentFileMasks>
-      <mask>*.sp</mask>
-      <mask>*.spe</mask>
-      <mask>*.spec</mask>
-      <mask>*.spec.</mask>
-      <mask>*.spec.ts</mask>
-      <mask>*.css</mask>
-      <mask>*.csvs</mask>
       <mask>*.sca</mask>
       <mask>*.sc</mask>
       <mask>*.scal</mask>
@@ -35,6 +32,13 @@
       <mask>*.csv</mask>
       <mask>*.t</mask>
       <mask>*.ts</mask>
+      <mask>fina</mask>
+      <mask>final/</mask>
+      <mask>final</mask>
+      <mask>final.</mask>
+      <mask>final.h</mask>
+      <mask>final.ht</mask>
+      <mask>final.html</mask>
     </recentFileMasks>
   </component>
 </application>
