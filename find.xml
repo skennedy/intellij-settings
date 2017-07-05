@@ -5,11 +5,8 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.scala" />
     <recentFileMasks>
-      <mask>*.html</mask>
-      <mask>*.(csv</mask>
-      <mask>*.(csv|</mask>
-      <mask>*.(csv|ts</mask>
       <mask>*.(csv|ts)</mask>
       <mask>*.csv,*.t</mask>
       <mask>*.csv,*.ts</mask>
@@ -32,10 +29,14 @@
       <mask>*.csv,*</mask>
       <mask>*.csv,</mask>
       <mask>*.scal</mask>
-      <mask>*.scala</mask>
       <mask>*.csv`</mask>
       <mask>*.csv</mask>
       <mask>*.ts</mask>
+      <mask>*.sc</mask>
+      <mask>*.scla</mask>
+      <mask>*.scl</mask>
+      <mask>*.sca</mask>
+      <mask>*.scala</mask>
     </recentFileMasks>
   </component>
 </application>
