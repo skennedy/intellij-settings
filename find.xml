@@ -5,7 +5,6 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.csv`" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.(csv</mask>
@@ -27,7 +26,6 @@
       <mask>*.css</mask>
       <mask>*.c</mask>
       <mask>*.cs</mask>
-      <mask>*.ts</mask>
       <mask>*.csv,*.ht</mask>
       <mask>*.csv,*.html</mask>
       <mask>*.csv,*.</mask>
@@ -35,8 +33,9 @@
       <mask>*.csv,</mask>
       <mask>*.scal</mask>
       <mask>*.scala</mask>
-      <mask>*.csv</mask>
       <mask>*.csv`</mask>
+      <mask>*.csv</mask>
+      <mask>*.ts</mask>
     </recentFileMasks>
   </component>
 </application>
