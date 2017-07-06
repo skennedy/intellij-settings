@@ -9,6 +9,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.ts" />
     <recentFileMasks>
       <mask>*.(csv|ts)</mask>
       <mask>*.csv,*.t</mask>
@@ -33,13 +34,13 @@
       <mask>*.csv,</mask>
       <mask>*.scal</mask>
       <mask>*.csv`</mask>
-      <mask>*.ts</mask>
       <mask>*.sc</mask>
       <mask>*.scla</mask>
       <mask>*.scl</mask>
       <mask>*.sca</mask>
       <mask>*.scala</mask>
       <mask>*.csv</mask>
+      <mask>*.ts</mask>
     </recentFileMasks>
   </component>
 </application>
