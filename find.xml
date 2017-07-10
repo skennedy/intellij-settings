@@ -3,10 +3,12 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="localCaseSensitive" value="true" />
+    <option name="regularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.ts" />
     <recentFileMasks>
-      <mask>fina</mask>
       <mask>final/</mask>
       <mask>final</mask>
       <mask>final.</mask>
@@ -29,13 +31,14 @@
       <mask>*.sac</mask>
       <mask>*.sa</mask>
       <mask>*.sca</mask>
-      <mask>*.ts</mask>
-      <mask>*</mask>
       <mask>*.sc</mask>
       <mask>*.scal</mask>
       <mask>*R.scala</mask>
       <mask>*.scala</mask>
       <mask>*Route.scala</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.ts</mask>
     </recentFileMasks>
   </component>
 </application>
