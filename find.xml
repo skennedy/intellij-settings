@@ -4,15 +4,11 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="localCaseSensitive" value="true" />
-    <option name="regularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.scala" />
+    <option name="FILE_MASK" value="*Route.scala" />
     <recentFileMasks>
-      <mask>*.s</mask>
-      <mask>*.t</mask>
       <mask>fina</mask>
       <mask>final/</mask>
       <mask>final</mask>
@@ -40,7 +36,9 @@
       <mask>*</mask>
       <mask>*.sc</mask>
       <mask>*.scal</mask>
+      <mask>*R.scala</mask>
       <mask>*.scala</mask>
+      <mask>*Route.scala</mask>
     </recentFileMasks>
   </component>
 </application>
