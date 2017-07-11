@@ -9,13 +9,8 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.tsx" />
+    <option name="FILE_MASK" value="*.tsx,*.ts" />
     <recentFileMasks>
-      <mask>final</mask>
-      <mask>final.</mask>
-      <mask>final.h</mask>
-      <mask>final.ht</mask>
-      <mask>final.html</mask>
       <mask>*.css</mask>
       <mask>*.c</mask>
       <mask>*.cs</mask>
@@ -40,7 +35,12 @@
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.ts</mask>
+      <mask>*.tsx?</mask>
       <mask>*.tsx</mask>
+      <mask>*.tsx,</mask>
+      <mask>*.tsx,*</mask>
+      <mask>*.tsx,*.</mask>
+      <mask>*.tsx,*.ts</mask>
     </recentFileMasks>
   </component>
 </application>
