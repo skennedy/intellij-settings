@@ -9,12 +9,8 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.scala" />
     <recentFileMasks>
-      <mask>*.css</mask>
-      <mask>*.c</mask>
-      <mask>*.cs</mask>
-      <mask>*.csv,*.ht</mask>
-      <mask>*.csv,*.html</mask>
       <mask>*.csv,*.</mask>
       <mask>*.csv,*</mask>
       <mask>*.csv,</mask>
@@ -25,11 +21,8 @@
       <mask>*.saca</mask>
       <mask>*.sac</mask>
       <mask>*.sa</mask>
-      <mask>*.sca</mask>
       <mask>*.sc</mask>
-      <mask>*.scal</mask>
       <mask>*R.scala</mask>
-      <mask>*.scala</mask>
       <mask>*Route.scala</mask>
       <mask>*</mask>
       <mask>*.</mask>
@@ -40,6 +33,14 @@
       <mask>*.tsx,*</mask>
       <mask>*.tsx,*.</mask>
       <mask>*.tsx,*.ts</mask>
+      <mask>s</mask>
+      <mask>sbt</mask>
+      <mask>*sbt</mask>
+      <mask>*.sbt</mask>
+      <mask>*.scaa</mask>
+      <mask>*.sca</mask>
+      <mask>*.scal</mask>
+      <mask>*.scala</mask>
     </recentFileMasks>
   </component>
 </application>
