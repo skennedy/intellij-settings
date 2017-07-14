@@ -7,16 +7,8 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.scala" />
+    <option name="FILE_MASK" value="*.proto,*.conf" />
     <recentFileMasks>
-      <mask>*.csv,*.</mask>
-      <mask>*.csv,*</mask>
-      <mask>*.csv,</mask>
-      <mask>*.csv`</mask>
-      <mask>*.scla</mask>
-      <mask>*.scl</mask>
-      <mask>*.csv</mask>
-      <mask>*.saca</mask>
       <mask>*.sac</mask>
       <mask>*.sa</mask>
       <mask>*.sc</mask>
@@ -39,6 +31,14 @@
       <mask>*.sca</mask>
       <mask>*.scal</mask>
       <mask>*.scala</mask>
+      <mask>*.p</mask>
+      <mask>*.pr</mask>
+      <mask>*.proto</mask>
+      <mask>*.proto,</mask>
+      <mask>*.proto,</mask>
+      <mask>*.proto,*</mask>
+      <mask>*.proto,*.</mask>
+      <mask>*.proto,*.conf</mask>
     </recentFileMasks>
   </component>
 </application>
