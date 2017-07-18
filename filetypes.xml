@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="kasjdb" type="PLAIN_TEXT" />
       <mapping pattern=".env.reference" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
