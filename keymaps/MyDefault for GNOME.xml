@@ -1,0 +1,8 @@
+<keymap version="1" name="MyDefault for GNOME" parent="Default for GNOME">
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="alt f7" />
+  </action>
+  <action id="ShowSettingsAndFindUsages">
+    <keyboard-shortcut first-keystroke="shift ctrl alt f7" />
+  </action>
+</keymap>
