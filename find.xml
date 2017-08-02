@@ -3,16 +3,10 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="localRegularExpressions" value="true" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="final.html" />
     <recentFileMasks>
-      <mask>*.sac</mask>
-      <mask>*.sa</mask>
-      <mask>*.sc</mask>
-      <mask>*R.scala</mask>
-      <mask>*Route.scala</mask>
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.ts</mask>
@@ -38,6 +32,11 @@
       <mask>*.proto,*</mask>
       <mask>*.proto,*.</mask>
       <mask>*.proto,*.conf</mask>
+      <mask>fina</mask>
+      <mask>final</mask>
+      <mask>final.</mask>
+      <mask>final.h</mask>
+      <mask>final.html</mask>
     </recentFileMasks>
   </component>
 </application>
