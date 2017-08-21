@@ -1,7 +1,9 @@
 <application>
-  <component name="DatabaseSettings">
+  <component name="DatabaseSettings" version="2">
+    <option name="maxLobLength" value="400000" />
+    <option name="lob-length" value="400000" />
     <csv-formats>
-      <csv-format name="Tab-separated (TSV)">
+      <csv-format name="Tab-separated (TSV)" id="0e567fa3-2d3a-4b46-abb9-224cac18e20e">
         <data>
           <record-format prefix="" suffix="" nullText="" quotationPolicy="as needed" valueSeparator="&#9;" recordSeparator="&#10;">
             <quotation>
@@ -11,7 +13,7 @@
           </record-format>
         </data>
       </csv-format>
-      <csv-format name="Comma-separated (CSV)">
+      <csv-format name="Comma-separated (CSV)" id="d635b9c8-adb5-424b-9ed0-2ca00c855bb9">
         <data>
           <record-format prefix="" suffix="" nullText="" quotationPolicy="as needed" valueSeparator="," recordSeparator="&#10;">
             <quotation>
