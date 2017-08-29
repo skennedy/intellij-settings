@@ -1,0 +1,6 @@
+<application>
+  <component name="HaskellConfiguration">
+    <option name="hindentPath" value="$USER_HOME$/.local/bin/hindent" />
+    <option name="stylishHaskellPath" value="$USER_HOME$/.local/bin/stylish-haskell" />
+  </component>
+</application>
