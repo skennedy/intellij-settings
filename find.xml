@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.scala" />
     <recentFileMasks>
       <mask>*.tsx</mask>
       <mask>*.tsx,</mask>
@@ -19,8 +20,6 @@
       <mask>*.sbt</mask>
       <mask>*.scaa</mask>
       <mask>*.sca</mask>
-      <mask>*.scal</mask>
-      <mask>*.scala</mask>
       <mask>*.p</mask>
       <mask>*.pr</mask>
       <mask>*.proto</mask>
@@ -38,6 +37,8 @@
       <mask>*.</mask>
       <mask>*.cs</mask>
       <mask>*.csv</mask>
+      <mask>*.scal</mask>
+      <mask>*.scala</mask>
     </recentFileMasks>
   </component>
 </application>
